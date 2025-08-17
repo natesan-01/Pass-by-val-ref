@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <conio.h>
 
-void swapref(int *, int *);  // Pass by Reference prototype
-void swapval(int, int);      // Pass by Value prototype
+void swapref(int *, int *); 
+void swapval(int, int)
 
 int main()
 {
